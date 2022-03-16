@@ -10,4 +10,4 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-[Diyagram]()
+[Diyagram](https://github.com/BerkaySancar/OOP_Diyagram-Online_Film_Sistemi/blob/main/onlinefilmsitesi.png)
